@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.clm {
+    float: left;
+    width: auto;
+    padding: 8px;
+}
+
+.dlm img{
+    height: 100px;
+}
+
